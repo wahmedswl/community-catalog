@@ -37,7 +37,7 @@ sentry-redis:
     io.rancher.container.pull_image: always
   tty: true
   log_opt: {}
-  image: redis:3.2.6-alpine
+  image: redis:alpine
   stdin_open: true
 sentry:
   ports:
