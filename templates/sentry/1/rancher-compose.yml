@@ -1,6 +1,6 @@
 .catalog:
   name: Sentry
-  version: 8.5.0
+  version: latest
   description: Sentry is a realtime event logging and aggregation platform
 
   questions:
