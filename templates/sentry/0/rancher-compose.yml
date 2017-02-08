@@ -52,12 +52,6 @@
       label: "SENTRY_EMAIL_PASSWORD"
       description: "The password for the email account. see https://hub.docker.com/_/sentry/ for more info"
 
-    - variable: "sentry_email_password"
-      type: "string"
-      required: false
-      label: "SENTRY_EMAIL_PASSWORD"
-      description: "The password for the email account. see https://hub.docker.com/_/sentry/ for more info"
-
     - variable: "sentry_email_port"
       type: "int"
       required: false
